@@ -75,7 +75,8 @@ a {
 }
 
 .navbar__link {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
   color: var(--color-black);
   line-height: var(--line-height-lg);
   letter-spacing: var(--letter-spacing);
