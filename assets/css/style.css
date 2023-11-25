@@ -245,6 +245,6 @@ a {
 @media (max-width: 576px) {
   .content {
     align-items: center;
-    align-content: center;
+    text-align: center;
   }
 }
